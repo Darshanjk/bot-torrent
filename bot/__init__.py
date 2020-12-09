@@ -15,7 +15,7 @@ CONFIG = Config({
     'BOT_PASSWORD' : None,
     'CHAT_ID' : '',
     'EDIT_SLEEP' : 3,
-    'UPLOAD_MAX_SIZE' : 2000 * 1024 * 1024,
+    'UPLOAD_MAX_SIZE' : 800 * 824 * 824,
     'UPLOAD_AS_DOC' : 0,
     'UPLOAD_AS_ZIP' : 0,
     'ARIA2_DIR' : 'downloads',
